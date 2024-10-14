@@ -11,14 +11,14 @@
 ## Tech Stack 🛠️
 - **Frontend**: Vite, React, TypeScript
 - **UI Framework**: Chakra UI
-- **APIs**: Free APIs to fetch game data
+- **APIs**: [Free APIs to fetch game data](https://rawg.io/)
 
 ## How to Run the Project 🚀
 
 ### 1. Clone the repository:
-```bash
+
 git clone git@github.com:your-username/game-tube.git
 cd game-tube
 
 Live Website 🌐
-You can visit the website at: https://hub-main-r1dqs101u-sunnyday29aprs-projects.vercel.app/
+You can visit the website at: (https://hub-main-r1dqs101u-sunnyday29aprs-projects.vercel.app/)
